@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @PancakesForRent
-- 👀 I’m interested in Machine Learning, Back-end Development, Game Development, Web Development
-- 🌱 I’m currently learning Python, Java, HTML/CSS
-- 💞️ I’m looking to collaborate on Open-Source Projects
-- 📫 How to reach me: (upcoming)
+- 👀 I’m interested in Machine Learning, Software Engineering, Web Apps, and Low-Level Programming
+- 🌱 I’m currently learning Java (Decent), Python (Rough), HTML/CSS/JavaScript (Just Started), C (Soon), C++ (Soon)
+- 💞️ I’m looking to collaborate on Open-Source Projects and participate in Developer challenges.
+- 📫 How to reach me: (making a carrd link soon)
 
 <!---
-PancakesForRent/PancakesForRent is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+So for the upcoming weeks hopefully I'll be busy enough that I'd be filling my repository with meaningful contributions so I could expand and potentially attract for work opportunities and implement interesting technologies
 --->
