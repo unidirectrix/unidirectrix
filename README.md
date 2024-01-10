@@ -1,6 +1,6 @@
 ## 👋Welcome, I'm PancakesForRent!
 
-I'm currently an undergrad in Computer Science and undertaking specialization in Data Science in the upcoming years. I mainly work in Java as a fulfillment of coding requirements and projects in my course. Everyday I learn new technologies and love open source💖.
+Just another regular programmer. Working with Java, C++, C, JavaScript, Lua, Python. Mainly interested in Game Development, particularly 2D/3D Graphics Rendering and Rasterization. 
 
 ### My Socials
 
