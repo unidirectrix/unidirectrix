@@ -5,6 +5,8 @@ Just another regular programmer. Working with Java, C++, C, JavaScript, Lua, Pyt
 ### My Socials
 
 <a href="https://github.com/PancakesForRent" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github-badge"></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="youtube-badge"></a>
+
 
 ##
 ### Languages
