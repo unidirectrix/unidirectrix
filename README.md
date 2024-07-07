@@ -1,6 +1,6 @@
 ## 👋Welcome, I'm PancakesForRent!
 
-Just another regular programmer. Working with Java, C++, C, JavaScript, Lua, Python. Mainly interested in Game Development, particularly 2D/3D Graphics Rendering and Rasterization. 
+Just another regular programmer. 
 
 ### My Socials
 
